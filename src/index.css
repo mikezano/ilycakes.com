@@ -17,9 +17,10 @@ code {
 
 .title{
   font-family: "Parisienne", cursive;
-  margin-bottom:0;
+  
 }
 
 .title, .cake{
   font-size:10rem;
+  margin:0;
 }
